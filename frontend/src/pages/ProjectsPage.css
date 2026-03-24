@@ -1,0 +1,2 @@
+.filters { display: flex; gap: 12px; align-items: center; flex-wrap: wrap; }
+.pagination { display: flex; align-items: center; justify-content: center; gap: 12px; padding: 16px 0 0; }
